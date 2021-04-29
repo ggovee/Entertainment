@@ -13,7 +13,7 @@ Coursework 2 - Group Assignment : INSERT / UPDATE / DELETE / SELECT using SQL &a
 - `Display Table` will direct you to the `Actor_Display.php` where the `Actor` table is displayed
 - The table in the `Actor_Display.php` webpage will be modified like how the `Actor` table in your database platform is modified
   when you make a selection (`INSERT` / `UPDATE` / `DELETE`)
-- `Actor_Display.php` will also have a search bar where you can enter the `Actor ID` to `SEARCH` (`SELECT`) for a particular row you want to find
+- `Actor_Display.php` will also have a search bar where you can enter the `Actor ID` to `SEARCH` (`SELECT`) for a particular row
 - You can also `RESET` after searching in order to display back the full table
 - `BACK TO FORM` button in the `Actor_Display.php` webpage will direct you back to the `Actor.php` webpage
 
