@@ -19,9 +19,9 @@ Coursework 2 - Group Assignment : INSERT / UPDATE / DELETE / SELECT using SQL &a
 
 Thank you! 
 
-from: 
+From: 
 - ow-nite
 - cherryO-o 
 - StarryNight-Blue
 - zaina-a
-- (& 1 other groupmate)
+- dwaekkii
